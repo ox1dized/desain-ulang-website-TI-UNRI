@@ -1,0 +1,20 @@
+#nav1 {
+  background-color: #192f59;
+}
+#nav2 {
+  background-color: white;
+  color: #192f59;
+}
+#buttondaftar {
+  border-radius: 0;
+}
+#divider {
+  border-color: #e6e6e6;
+}
+#card-satu {
+  border-radius: 0;
+  border-width: 0;
+}
+#card-satu img {
+  border-radius: 0;
+}
